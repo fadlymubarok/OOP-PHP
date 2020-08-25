@@ -1,2 +1,2 @@
-# OOP-PHP
-Property and Method Learning files
+# Object Oriented Programming
+OOP for Learning files
